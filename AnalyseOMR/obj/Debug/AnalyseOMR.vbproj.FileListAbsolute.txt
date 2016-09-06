@@ -1,0 +1,15 @@
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\bin\Debug\AnalyseOMR.exe.config
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.vbprojResolveAssemblyReference.cache
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.Resources.resources
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.vbproj.GenerateResource.Cache
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\bin\Debug\AnalyseOMR.exe
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\bin\Debug\AnalyseOMR.pdb
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\bin\Debug\AnalyseOMR.xml
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\Interop.VBIDE.dll
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.vbproj.ResolveComReference.cache
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.exe
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.xml
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.pdb
+D:\Projects\Chitti\analyse-omr-data\AnalyseOMR\obj\Debug\AnalyseOMR.EvaluateOMR.resources
